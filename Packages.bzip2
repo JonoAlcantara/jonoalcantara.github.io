@@ -1,0 +1,14 @@
+Package: <package>
+Version: <version>
+Architecture: iphoneos-arm
+Maintainer: Jono Alcantara
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Tweaks
+Description: <description>
+Author: Jono Alcantara
+Name: Tweakname
